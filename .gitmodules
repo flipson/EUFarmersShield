@@ -1,0 +1,3 @@
+[submodule "GLNet"]
+	path = GLNet
+	url = git@github.com:VITA-Group/GLNet.git
