@@ -1,0 +1,22 @@
+# Ignore python tmp files
+*__pycache__*
+
+# Ignore pytest tmp files
+*.cache
+
+# Code coverage tmp files
+.coverage
+
+# VS code specifics
+*.vscode
+
+# Vim temp files
+*.swp
+
+# Intellij
+*.idea
+
+# Data
+checkpoints/
+prediction/
+data/
